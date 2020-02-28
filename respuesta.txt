@@ -1,0 +1,6 @@
+2. ¿Qué es un jar y para qué sirve?
+Es un tipo de archivo que permite ejecutar aplicaciones de el lenguaje java.
+
+3. ¿Qué es el patrón MVC?
+Es un patron que separa los datos de su logica, por un lado define componentes
+para la representacion de la informacion y por otro lado para la interaccion del usuario.
